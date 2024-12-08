@@ -90,5 +90,5 @@ Have feedback or suggestions? Feel free to [open an issue](https://github.com/yo
 
 ### 📌 Author
 
--   **Name**: [Your Name](https://github.com/yourusername)
--   **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
+-   **Name**: [Htoo Aung Kha](https://github.com/TicketAnalyticsX)
+-   **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/htoo-aung-kha-ab1802325/)
